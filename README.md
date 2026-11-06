@@ -57,17 +57,21 @@ I'm a Computer Science Engineering student interested in software development, p
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 
+
+<!-- ================= GITHUB ACTIVITY ================= -->
+
 ## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nancyshriv23&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=nancyshriv23&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyshriv23&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" alt="Most used languages" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nancyshriv23&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" alt="Most used languages" />
 
 </div>
 
 ---
+
 
 <!-- ================= CONNECT ================= -->
 
